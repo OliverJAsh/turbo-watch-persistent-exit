@@ -1,0 +1,9 @@
+{
+  "packageManager": "pnpm@10.5.2",
+  "scripts": {
+    "server": "exit 1"
+  },
+  "dependencies": {
+    "turbo": "^2.4.4"
+  }
+}
